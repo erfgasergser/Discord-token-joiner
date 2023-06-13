@@ -2,6 +2,16 @@
 
 Discord Server Joiner and Booster is a script that allows you to automatically join a Discord server using multiple user tokens. This script also supports server boosting and 2captcha API and Capmonster.cloud API key for captcha solving.
 
+## Installation
+
+Download [nodejs](https://nodejs.org/)
+
+
+
+```
+git clone https://github.com/erfgasergser/Discord-token-joiner
+```
+
 
 
 ## Config
