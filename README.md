@@ -31,7 +31,7 @@ The config.json file contains the following properties:
 
 The program will automatically attempt to join the server using each token provided in the tokens.txt file. The `joinDelay` property determines the delay between each join attempt. 
 
-When you open Discord-token-joiner.exe, it will start joining the server you specified. 
+When you open `Discord-token-joiner.exe`, it will start joining the server you specified. 
 
 
 ## Proxy Usage
